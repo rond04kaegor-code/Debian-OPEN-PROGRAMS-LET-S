@@ -1,2 +1,2 @@
 # ATTENTION!!!!!!!!!!!!!!!!!!!
-**The source code is located in the "debian-opl-src.tar.gz" archive.**
+**The source code is located in the "debian-opl-src.tar.gz" archive in the release.**
